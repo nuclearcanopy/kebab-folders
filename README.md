@@ -17,4 +17,4 @@ You can also run `./kebab-folders.sh` (compat shim).
 
 ## License
 
-GPLv3
+AGPL-3.0-or-later
